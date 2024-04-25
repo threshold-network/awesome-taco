@@ -23,6 +23,7 @@ A list of awesome TACo resources :sunglasses:
 - [TACo Documentation](https://docs.threshold.network/applications/threshold-access-control)
 - [TACo App Development](https://docs.threshold.network/app-development/threshold-access-control-tac)
 - [TACo Node Setup](https://docs.threshold.network/staking-and-running-a-node/taco-node-setup)
+- [TACo Trust Assumptions](https://docs.threshold.network/app-development/threshold-access-control-tac/trust-assumptions)
 
 ## TACo Ingredients
 
@@ -40,8 +41,11 @@ A list of awesome TACo resources :sunglasses:
 ## Hackathon Projects
 
 - [TACo Snap (EthDam 2024)](https://taikai.network/cryptocanal/hackathons/ethdam2024/projects/clux1ntjg00m5z301xb0bdehj/idea)
+- [Honest Auctions (ETHDenver 2024)](https://devfolio.co/projects/hones-auctions-8522)
 - [Electora (EthDam 2023)](https://taikai.network/cryptocanal/hackathons/ethdam/projects/clheoeawk122970901y97db0x7qg/idea)
 - [BigFatCryptoWedding (EthGlobal Istanbul 2023)](https://ethglobal.com/showcase/bigfatcryptowedding-93zgs)
+- [MultiParticipantRevealer (ETHDenver 2024)](https://devfolio.co/projects/multiparticipantrevealer-c6ba)
 - [Secure Social Swap (EthGlobal Istanbul 2023)](https://ethglobal.com/showcase/secure-social-swap-g4sdy)
+- [Eigenbtc (ETHDenver 2024)](https://devfolio.co/projects/eigenbtc-40a2)
 - [DOG (EthGlobal Istanbul 2023)](https://ethglobal.com/showcase/dog-gipja)
 
