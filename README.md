@@ -24,6 +24,7 @@ A list of awesome TACo resources :sunglasses:
 - [TACo App Development](https://docs.threshold.network/app-development/threshold-access-control-tac)
 - [TACo Node Setup](https://docs.threshold.network/staking-and-running-a-node/taco-node-setup)
 - [TACo Trust Assumptions](https://docs.threshold.network/app-development/threshold-access-control-tac/trust-assumptions)
+- [TACo Contract Addresses](https://docs.threshold.network/resources/contract-addresses/mainnet/taco)
 
 ## TACo Ingredients
 
